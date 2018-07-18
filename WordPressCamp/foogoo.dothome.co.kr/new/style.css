@@ -1,0 +1,20 @@
+/*
+Theme Name: EasyBlog_customized
+Template: easyblog
+Version: 1.1.1
+Author: Chaeeon Lim
+Author URI: https://www.famethemes.com/
+Theme URI: https://demos.famethemes.com/easyblog/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: easyblog
+Tags: custom-background, custom-colors, custom-menu, featured-images, right-sidebar, sticky-post, theme-options, threaded-comments, translation-ready, two-columns, editor-style, post-formats
+Description: EasyBlog is a fully responsive blogging WordPress theme perfect for personal blog, photo blogging, writers, travelers, bloggers, blog. It is SEO friendly with featured image supports and custom colors. Bootstrap is used for responsiveness and supports all major browsers.  It is beautifully designed clean and light color used theme perfect for everyone. Theme customizer can be used to change color, upload logo and other basic settings. 3 Built-in widgets recent posts will help you to show recently published post with thumbnails, Daisy social Icons help you to add your favorite social profiles and also included advertisement widget to add banner ads. You can get quick SUPPORT through support page https://www.famethemes.com/contact/ and view live DEMO at https://demos.famethemes.com/easyblog/
+
+This theme, like WordPress, is licensed under the GPL.
+
+EasyBlog is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+@import url("../easyblog/style.css");
